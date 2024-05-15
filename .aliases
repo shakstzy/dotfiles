@@ -1,1 +1,2 @@
 # personal shell aliases
+alias gap='git add -p'
