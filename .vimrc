@@ -2,3 +2,4 @@
 
 syntax on
 set nocompatible
+set visualbell
