@@ -5,3 +5,4 @@
 	uncommit = reset --soft HEAD^
 [push]
 	autoSetupRemote = true
+	default = simple
