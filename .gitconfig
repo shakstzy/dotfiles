@@ -3,6 +3,7 @@
 	email = adithya.shak.kumar@gmail.com
 [alias]
 	uncommit = reset --soft HEAD^
+	br = branch
 [push]
 	autoSetupRemote = true
 	default = simple
