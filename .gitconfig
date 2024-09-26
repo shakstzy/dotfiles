@@ -4,6 +4,7 @@
 [alias]
 	uncommit = reset --soft HEAD^
 	br = branch
+	aliases = config --get-regexp alias
 [push]
 	autoSetupRemote = true
 	default = simple
