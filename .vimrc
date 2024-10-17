@@ -12,3 +12,4 @@ set backspace=indent,eol,start
 nnoremap <leader>tn :tabnext<CR>
 set signcolumn=yes
 set splitright
+set expandtab
