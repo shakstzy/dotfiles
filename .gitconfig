@@ -13,3 +13,5 @@
 	conflictstyle = zdiff3
 [diff]
 	algorithm = histogram
+[pull]
+	rebase = true
