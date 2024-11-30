@@ -6,6 +6,7 @@
 	br = branch
 	aliases = config --get-regexp alias
 	last = log -1 HEAD
+	lg = log --oneline --graph --decorate --all
 [push]
 	autoSetupRemote = true
 	default = simple
