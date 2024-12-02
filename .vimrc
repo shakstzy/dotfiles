@@ -14,3 +14,4 @@ set signcolumn=yes
 set splitright
 set expandtab
 set undofile
+set hidden
