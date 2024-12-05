@@ -15,3 +15,4 @@ set splitright
 set expandtab
 set undofile
 set hidden
+set relativenumber
