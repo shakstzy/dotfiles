@@ -16,3 +16,4 @@ set expandtab
 set undofile
 set hidden
 set relativenumber
+nnoremap <C-l> <C-w>l
