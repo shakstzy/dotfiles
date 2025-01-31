@@ -17,3 +17,4 @@ set undofile
 set hidden
 set relativenumber
 nnoremap <C-l> <C-w>l
+set mouse=a
