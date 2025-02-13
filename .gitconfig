@@ -8,6 +8,7 @@
 	last = log -1 HEAD
 	lg = log --oneline --graph --decorate --all
 	unstage = reset HEAD --
+	amend = commit --amend --no-edit
 [push]
 	autoSetupRemote = true
 	default = simple
