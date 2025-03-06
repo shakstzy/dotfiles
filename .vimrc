@@ -20,3 +20,4 @@ nnoremap <C-l> <C-w>l
 set mouse=a
 set wildmode=longest:full,full
 set incsearch
+set autoindent
