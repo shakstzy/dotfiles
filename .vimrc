@@ -22,3 +22,4 @@ set wildmode=longest:full,full
 set incsearch
 set autoindent
 set clipboard=unnamedplus
+set wrap
