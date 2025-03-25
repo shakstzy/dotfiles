@@ -22,3 +22,5 @@
 	excludesfile = ~/.gitignore_global
 	autocrlf = input
 	editor = nvim
+[init]
+	defaultBranch = main
