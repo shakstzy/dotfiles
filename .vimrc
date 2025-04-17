@@ -23,3 +23,4 @@ set incsearch
 set autoindent
 set clipboard=unnamedplus
 set wrap
+set scrolloff=8
