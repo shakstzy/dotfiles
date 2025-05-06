@@ -9,6 +9,7 @@
 	lg = log --oneline --graph --decorate --all
 	unstage = reset HEAD --
 	amend = commit --amend --no-edit
+	ci = commit
 [push]
 	autoSetupRemote = true
 	default = simple
