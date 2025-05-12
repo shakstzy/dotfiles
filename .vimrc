@@ -24,3 +24,4 @@ set autoindent
 set clipboard=unnamedplus
 set wrap
 set scrolloff=8
+set splitbelow
