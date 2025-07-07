@@ -27,3 +27,4 @@ set scrolloff=8
 set splitbelow
 nnoremap <leader>tp :tabprev<CR>
 nnoremap k gk
+nnoremap <C-h> <C-w>h
