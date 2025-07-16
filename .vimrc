@@ -28,3 +28,4 @@ set splitbelow
 nnoremap <leader>tp :tabprev<CR>
 nnoremap k gk
 nnoremap <C-h> <C-w>h
+set sidescrolloff=8
