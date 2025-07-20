@@ -30,3 +30,4 @@ nnoremap k gk
 nnoremap <C-h> <C-w>h
 set sidescrolloff=8
 nnoremap <leader>cd :cd %:p:h<CR>
+nnoremap <leader>x :x<CR>
