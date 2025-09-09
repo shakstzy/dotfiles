@@ -27,3 +27,5 @@
 	defaultBranch = main
 [rerere]
 	enabled = true
+[color]
+	ui = auto
