@@ -33,3 +33,4 @@ nnoremap <leader>cd :cd %:p:h<CR>
 nnoremap <leader>x :x<CR>
 set foldlevel=99
 set noerrorbells
+set ignorecase
