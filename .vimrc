@@ -35,3 +35,4 @@ set foldlevel=99
 set noerrorbells
 set ignorecase
 vnoremap < <gv
+set showmatch
