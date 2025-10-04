@@ -36,3 +36,4 @@ set noerrorbells
 set ignorecase
 vnoremap < <gv
 set showmatch
+nnoremap j gj
