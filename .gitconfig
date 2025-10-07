@@ -10,6 +10,7 @@
 	unstage = reset HEAD --
 	amend = commit --amend --no-edit
 	ci = commit
+	st = status
 [push]
 	autoSetupRemote = true
 	default = simple
