@@ -37,3 +37,4 @@ set ignorecase
 vnoremap < <gv
 set showmatch
 nnoremap j gj
+set lazyredraw
