@@ -38,3 +38,4 @@ vnoremap < <gv
 set showmatch
 nnoremap j gj
 set lazyredraw
+nnoremap <C-j> <C-w>j
