@@ -40,3 +40,4 @@ nnoremap j gj
 set lazyredraw
 nnoremap <C-j> <C-w>j
 nnoremap <leader>n :nohlsearch<CR>
+vnoremap > >gv
