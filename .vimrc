@@ -42,3 +42,4 @@ nnoremap <C-j> <C-w>j
 nnoremap <leader>n :nohlsearch<CR>
 vnoremap > >gv
 set tabstop=2
+set updatetime=300
