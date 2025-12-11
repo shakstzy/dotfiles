@@ -45,3 +45,4 @@ set tabstop=2
 set updatetime=300
 nnoremap <leader>y "+y
 set timeoutlen=500
+set hlsearch
