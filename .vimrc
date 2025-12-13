@@ -46,3 +46,4 @@ set updatetime=300
 nnoremap <leader>y "+y
 set timeoutlen=500
 set hlsearch
+nnoremap <leader>w :w<CR>
