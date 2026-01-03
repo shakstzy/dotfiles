@@ -49,3 +49,4 @@ set hlsearch
 nnoremap <leader>w :w<CR>
 set ttyfast
 set ruler
+nnoremap <leader>t :tabnew<CR>
