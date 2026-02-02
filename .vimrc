@@ -51,3 +51,4 @@ set ttyfast
 set ruler
 nnoremap <leader>t :tabnew<CR>
 set shiftwidth=2
+inoremap jk <Esc>
