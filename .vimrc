@@ -54,3 +54,4 @@ set shiftwidth=2
 inoremap jk <Esc>
 set conceallevel=0
 nnoremap <leader>p "+p
+set smartcase
