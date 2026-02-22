@@ -56,3 +56,4 @@ set conceallevel=0
 nnoremap <leader>p "+p
 set smartcase
 nnoremap <leader>q :q<CR>
+set smartindent
