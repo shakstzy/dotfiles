@@ -58,3 +58,4 @@ set smartcase
 nnoremap <leader>q :q<CR>
 set smartindent
 nnoremap <C-k> <C-w>k
+set wildmenu
