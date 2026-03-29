@@ -61,3 +61,4 @@ nnoremap <C-k> <C-w>k
 set wildmenu
 set number
 set undodir=~/.vim/undo
+set noswapfile
