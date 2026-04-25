@@ -62,3 +62,4 @@ set wildmenu
 set number
 set undodir=~/.vim/undo
 set noswapfile
+set fileencoding=utf-8
