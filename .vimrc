@@ -65,3 +65,4 @@ set noswapfile
 set fileencoding=utf-8
 nnoremap <leader>e :Explore<CR>
 set linebreak
+set showcmd
