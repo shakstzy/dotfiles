@@ -9,3 +9,5 @@ stow .
 ```
 
 <!-- note: revisited -->
+
+<!-- update 2026-05-04 -->
