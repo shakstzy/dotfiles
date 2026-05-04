@@ -7,3 +7,5 @@ My personal dotfiles. Synced across machines.
 ```sh
 stow .
 ```
+
+<!-- note: revisited -->
