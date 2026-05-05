@@ -13,3 +13,5 @@ stow .
 <!-- update 2026-05-04 -->
 
 <!-- note: revisited -->
+
+<!-- minor cleanup -->
